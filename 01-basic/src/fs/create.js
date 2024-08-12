@@ -1,4 +1,4 @@
-import {fileURLtoPath} from 'url'
+import {fileURLtoPath} from "url"
 import {join} from "path";
 import * as fs from "fs"
 
